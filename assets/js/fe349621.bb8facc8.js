@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkudsm_dhis_2_club=self.webpackChunkudsm_dhis_2_club||[]).push([[859],{9226:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/udsm-dhis2-club/blog/tags/docusaurus","allTagsPath":"/udsm-dhis2-club/blog/tags","count":1}')}}]);

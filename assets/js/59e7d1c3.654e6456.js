@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkudsm_dhis_2_club=self.webpackChunkudsm_dhis_2_club||[]).push([[167],{9205:s=>{s.exports=JSON.parse('{"permalink":"/udsm-dhis2-club/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkudsm_dhis_2_club=self.webpackChunkudsm_dhis_2_club||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/udsm-dhis2-club/blog/first-blog-post"}]}')}}]);
