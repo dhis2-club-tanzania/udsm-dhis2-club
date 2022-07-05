@@ -6,7 +6,7 @@ const config = {
   title: "UDSM DHIS2 Club",
   tagline: "A student centered club.",
   url: "https://dhis2-club-tanzania.github.io",
-  baseUrl: "/",
+  baseUrl: "/udsm-dhis2-club/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
