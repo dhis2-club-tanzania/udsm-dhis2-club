@@ -27,12 +27,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/dhis2-club-tanzania/udsm-dhis2-club/edit/main/docs/",
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/dhis2-club-tanzania/udsm-dhis2-club/edit/main/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
