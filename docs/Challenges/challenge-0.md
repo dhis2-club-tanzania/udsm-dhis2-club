@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: Challenge - 0
+---
+
 # UDSM DHIS2 Club.
 
 ## Your software development/industry career companion

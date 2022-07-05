@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+title: Introduction
+sidebar_label: Introduction
+---
+
 # UDSM DHIS2 Club.
 
 ## Your software development/industry career companion
